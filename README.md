@@ -8,11 +8,11 @@ The goal of this document is to gather useful references about tech concept, too
 
 ## Contents
 
-* [Python](# python)
+* [Python](#python)
   
   * [Mocking](#mocking)
   
-  * [Mypy](# mypy)
+  * [Mypy](#mypy)
 
 * [Soft skills](#soft)
 - [Testing](#testing)
