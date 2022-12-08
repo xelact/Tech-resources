@@ -16,7 +16,7 @@ The goal of this document is to gather useful references about tech concept, too
 
 * [Soft skills](#soft)
 - [Testing](#testing)
-  - [BDD](# bdd)
+  - [BDD](#bdd)
   
   
 
