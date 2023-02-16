@@ -66,6 +66,7 @@ tools, roles, etc.
 * [GitHub - charlax/engineering-management: A collection of inspiring resources
   related to engineering management and tech leadership](
   https://github.com/charlax/engineering-management)
+* [How to speak](https://www.youtube.com/watch?v=Unzc731iCUY&t=3s)
 
 ## Testing
 
