@@ -8,6 +8,8 @@ tools, roles, etc.
 * [Blogs](#blogs)
 * [Certifications](#certifications)
 * [Functional programming](#fp)
+* [Editors & IDEs](#editors-ides)
+* [Frontend](#frontend)
 * [Interviews](#interviews)
 * [Python](#python)
   * [Mocking](#mocking)
@@ -39,9 +41,32 @@ tools, roles, etc.
   * [CISCO Cybersecurity Essentials](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials)
   * [More free certs](https://www.freecodecamp.org/news/free-certificates/)
 
+## Editors & IDEs
+
+* VSCode
+  * Configurations
+    * Sticky Scroll
+  * Extensions
+    * [CodeSnap](https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap)
+
 ## Functional programing
 
 * [Functional programming fundamentals](https://www.matthewgerstman.com/tech/functional-programming-fundamentals/)
+
+## Frontend
+
+* Accessibility tools:
+  * [Colorblindly](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg)
+  * [Contrast checker](https://webaim.org/resources/contrastchecker/blank")
+* CSS
+  * [CSS reference](https://cssreference.io/)
+  * [CSS selectors](https://fffuel.co/css-selectors/)
+* [HTML reference](https://htmlreference.io/)
+* Images
+  * Image optimization [squoosh.app](https://squoosh.app/)
+* Web checks
+  * [web-check](http://web-check.xyz)
+  * [Frontend-checklist](https://frontendchecklist.io/)
 
 ## Interviews
 
